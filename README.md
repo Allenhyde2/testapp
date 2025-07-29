@@ -152,7 +152,8 @@ testapp/
 ### ✅ 완료된 작업
 
 - **Phase 1 완료**: 모든 개발 환경이 설정되었습니다!
-- **지원 플랫폼**: 웹, iOS, macOS, Android (cmdline-tools 설치 후)
+- **지원 플랫폼**: 웹, iOS, macOS, Android ✅ (모든 플랫폼 완료!)
+- **Android 라이선스**: 모든 SDK 패키지 라이선스 수락 완료
 
 ### 🚀 다음 단계
 
@@ -172,6 +173,9 @@ flutter run -d ios
 
 # macOS에서 테스트
 flutter run -d macos
+
+# Android 에뮬레이터/실기기에서 테스트
+flutter run -d android
 ```
 
 ## 📞 문의
